@@ -18,5 +18,5 @@ chirp_mass: 30
 amplitude_scale: 2E20
 
 # chirp duration in seconds
-duration: 6.0
+duration: 5.0
 
